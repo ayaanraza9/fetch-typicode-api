@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+table {
+  height: 100vh;
+  border: none;
+  border: white;
+}
+thead {
+  background-color: rgb(119, 119, 223);
+}
+tbody {
+  background-color: rgba(89, 185, 240, 0.484);
+}
+tr {
+  text-align: center;
+}
